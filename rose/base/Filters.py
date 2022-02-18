@@ -35,7 +35,7 @@ async def commands_callbacc(_, CallbackQuery):
 #mute menu here 
 afilters = """
 **AUTO FILTERS**
-Rose Can filter content of a given channel automatically
+Hijab Queen Can filter content of a given channel automatically
 
 **Currently support:**
     - Videos
@@ -44,7 +44,7 @@ Rose Can filter content of a given channel automatically
     - Music
 **Setting up**
 
-1) Add @szrosebot to your channel
+1) Add @hijabqueen_bot to your channel
 2) Make bot admin with full permissions
 2) Go back to your group
 
@@ -54,7 +54,7 @@ Rose Can filter content of a given channel automatically
 × /autofilterdelall : Remove all channels from automatic filtering
 × /autofiltersettings : Show settings panel about auto filtering channels
 
-Original work is done by @CrazyBotsz
+Original work is done by @Call_me_futurepilot
 """
 @app.on_callback_query(filters.regex("_afilters"))
 async def commands_callbacc(_, CallbackQuery):
@@ -73,7 +73,7 @@ tfilters =  """
  If you reply to a sticker with a keyword, the bot will reply with that sticker. 
  
 **NOTE**: all filter keywords are in lowercase. If you want your keyword
-to be a sentence, use quotes. eg: /filter "hey there" How you doin?
+to be a sentence, use quotes. eg: /filter "hey there" How you doing?
 """
 @app.on_callback_query(filters.regex("_tfilters"))
 async def commands_callbacc(_, CallbackQuery):
@@ -88,7 +88,7 @@ async def commands_callbacc(_, CallbackQuery):
 #_bfilters menu here
 bfilters = """
 Filters are case insensitive; every time someone says your trigger words, 
-Rose will reply something else! can be used to create your own commands, 
+Hijab Queen will reply something else! can be used to create your own commands, 
 if desired.
 
 **Commands:**
@@ -130,7 +130,7 @@ Filter module is great for everything!
 filter in here is used to filter words or 
 sentences in your chat!
 
-Rose's filters comes under **4** types.
+Hijab Queen's filters comes under **4** types.
 
 1) **Basic Filters** -  Support regex, Buttons, Formatting and variables
 2) **Text Filters** - Text filters are for short and text replies
