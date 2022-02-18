@@ -3,7 +3,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 
 
-supunma = """
+mahsoom = """
 Some chats get a lot of users joining just to spam. 
 This could be because they're trolls, or part of a spam network.
 To slow them down, you could try enabling CAPTCHAs. 
@@ -20,7 +20,7 @@ If you disable welcome messages, CAPTCHAs will also stop.
 async def commands_callbacc(_, CallbackQuery):
     await app.send_message(
         CallbackQuery.message.chat.id,
-        text=supunma,
+        text=mahsoom,
         reply_markup=mbuttons,
         disable_web_page_preview=True,    
     )
