@@ -15,7 +15,7 @@ logo = """
 **Available Features**
 - 5000+ Fonts Available .
 - 10000+ Background Images.
-- Never Expire Image Links. [Telegraph](https://telegra.ph/file/1ab200205580a4444561b.jpg)
+- Never Expire Image Links. [Telegraph](https://telegra.ph/file/8b7b44d8c000c89a16f8f.jpg)
 - Group / Channel & Inbox Supported.
 
 Original work is done by [@Call_me_futurepilot](https://telegra.ph/file/529c5b49f4e40baeca030.jpg) | [Our Channel </>](https://t.me/mahsoombotupdate)
@@ -26,7 +26,7 @@ ghost = """
 × /slogo `[TEXT]` : New Beautiful trending logo
 
 **Available Features**
-- Ghostist Logo [API](https://telegra.ph/file/529c5b49f4e40baeca030.jpg)
+- Ghostist Logo [API](https://telegra.ph/file/8b7b44d8c000c89a16f8f.jpg)
 
 Original work is done by [@Call_me_futurepilot](https://telegra.ph/file/529c5b49f4e40baeca030.jpg) | [Our Channel </>](https://t.me/mahsoombotupdate)
 """
@@ -40,8 +40,8 @@ hql = """
 **Available Features**
 - 5000+ Fonts Available .
 - 10000+ Background Images.
-- Quick Response. [API Base](hhttps://telegra.ph/file/529c5b49f4e40baeca030.jpg)
-- Never Expire Image Links. [Telegraph](https://telegra.ph/file/1ab200205580a4444561b.jpg)
+- Quick Response. [API Base](https://telegra.ph/file/10a82d98ba84bf7220563.jpg)
+- Never Expire Image Links. [Telegraph](https://telegra.ph/file/8b7b44d8c000c89a16f8f.jpg)
 - 4K Logo & Wallpapers.
 - Group / Channel & Inbox Supported.
 
@@ -72,7 +72,7 @@ wall = """
 - 5000+ Fonts Available .
 - 10000+ Background Images.
 - Quick Response. [API Base](https://t.me/mahsoombotupdate)
-- Never Expire Image Links. [Telegraph](https://telegra.ph/file/1ab200205580a4444561b.jpg)
+- Never Expire Image Links. [Telegraph](https://telegra.ph/file/8b7b44d8c000c89a16f8f.jpg)
 - 4K Logo & Wallpapers.
 - Group / Channel & Inbox Supported.
 
@@ -106,9 +106,9 @@ async def mylogo(_, query):
         API = "https://api.single-developers.software/write"
         body = {     
      "text":f"""
-Hello ! {text} Mahsoom 🤓 is one of the fastest and most feature filled group manager.
+Hello ! {text} Hijab Queen is one of the fastest and most feature filled group manager.
 
-Why Mahsoom 🤓:
+Why Hijab Queen:
 - Simple: Easy usage and compaitble with many bot commands.
 - Featured: Many features which other group management bots don't have.
 - Fast: Pyrogram base bot and use mongo as database.
@@ -172,11 +172,11 @@ upun = """
 - 5000+ Fonts Available .
 - 10000+ Background Images.
 - Quick Response. [API Base](https://t.me/mahsoombotupdate)
-- Never Expire Image Links. [Telegraph](https://telegra.ph/file/529c5b49f4e40baeca030.jpg)
+- Never Expire Image Links. [Telegraph](https://telegra.ph/file/8b7b44d8c000c89a16f8f.jpg)
 - 4K Logo & Wallpapers.
 - Group / Channel & Inbox Supported.
 - Hand Writing [sinhala & English ](https://t.me/mahsoombotupdate)
-- Ghostist Logo [API](https://telegra.ph/file/529c5b49f4e40baeca030.jpg)
+- Ghostist Logo [API](https://telegra.ph/file/8b7b44d8c000c89a16f8f.jpg)
 
 **Original work is done by **[@Call_me_futurepilot](https://telegra.ph/file/529c5b49f4e40baeca030.jpg) | [Our Channel </>](https://t.me/mahsoombotupdate)
 """
