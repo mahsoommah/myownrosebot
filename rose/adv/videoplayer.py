@@ -1,7 +1,7 @@
 __MODULE__ = "Video Play"
 __HELP__ = """
 
-Rose can play video in your group's voice chat 
+Hijab Queen can play video in your group's voice chat 
 zero lag time with high quality
 
 × /play - `[Youtube URL/Search Query/live URL or reply video/audion]` 
@@ -18,6 +18,6 @@ zero lag time with high quality
 This is most advance music player in telegram base on open socure 
 music player repo rose can play music or video in your group video chat without lag...!
 
-More info can found here - [click here](https://t.me/szvcbot/9)
+More info can found here - [click here](https://t.me/mahsoombotupdate)
  """
 __advtools__ = __HELP__
