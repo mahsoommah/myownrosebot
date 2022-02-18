@@ -1,4 +1,4 @@
-<p align="center"><img src="https://telegra.ph/file/c787915485e8645acfca1.jpg" alt="ICON" width="250" height="200"/></p>
+<p align="center"><img src="https://telegra.ph/file/978d831cb56f6e4befca8.jpg" alt="ICON" width="250" height="200"/></p>
 
 [![Stars](https://img.shields.io/github/stars/szsupunma/sz-rosebot?style=flat-square&color=yellow)](https://github.com/szsupunma/sz-rosebot/stargazers)
 [![Forks](https://img.shields.io/github/forks/szsupunma/sz-rosebot?style=flat-square&color=orange)](https://github.com/szsupunma/sz-rosebot/fork)
@@ -9,7 +9,7 @@
 # Documentation 
 [![Documentation](https://img.shields.io/badge/Documentation-Rosebot-blue)](https://szsupunma.gitbook.io/rose-bot/)   
     
-## Rose bot
+## Hijab Queen bot
 An  advanced telegram Group management Bot For help 
 You Protect Your Groups & Suit For All Your Needs.
 >  This bot database is  Mongo Database so is stable and has no issues till date
@@ -18,7 +18,7 @@ You Protect Your Groups & Suit For All Your Needs.
 -  `API_ID` : Get it from [My telegram Org](https://my.telegram.org/apps)
 -  `API_HASH` : Get it from [My telegram Org](https://my.telegram.org/apps)
 -  `BOT_TOKEN` : Get it from @Botfather 
--  `SESSION_STRING` : Generate from [@szrosebot](http://t.me/szrosebot) or [![genStr](https://img.shields.io/badge/repl.it-genStr-yellowgreen)](https://replit.com/@vcsession/szteambots)
+-  `SESSION_STRING` : Generate from [@hijabqueen_bot](http://t.me/hijabqueen_bot) or [![genStr](https://img.shields.io/badge/repl.it-genStr-yellowgreen)](https://replit.com/@mahsoommah/mahsoom-string-gen?v=1)
 -  `LOG_MENTIONS` : Fill 1 to turn this on, or 0 to turn it off
 -  `USERBOT_PREFIX` : userbot commands `(/,.,!,?)`
 -  `SUDO_USERS_ID` : ID of Auth Users who can use Admin commands. (for multiple users seperated by space)
@@ -36,16 +36,11 @@ You Protect Your Groups & Suit For All Your Needs.
 Read [Docs](https://szsupunma.gitbook.io/rose-bot/) for Detailed Description and Setup Guide on deloying Bot.
 
 ####  Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mahsoommah/sz-rosebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mahsoommah/myownrosebot)
 
-#### Deploy telgram [click here](http://t.me/szrosebot?start=deploy)
+#### Deploy telgram [click here](http://t.me/hijabqueen_bot?start=deploy)
 send /deploy command after start bot or see clone page
 
-## Contact & Support
-
-- [Telegram Channel](https://t.me/szteambots")
-- [Telegram Support Group](https://t.me/slbotzone)
-- [Contact Owner](https://t.me/supunmabot)
 
 
 ## License
