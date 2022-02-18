@@ -106,7 +106,7 @@ async def bot_sys_stats():
 ⏱ Latest Update Time : 2022 {dater}:{timer}
 📊 User Count : {served_users} 
 📖 Total Groups : {served_chats}
-Enjoy! 🎭 Powerd By @szteambots
+Enjoy! 🎭 Powerd By @hijabqueen_bot
 """
     return stats
 
