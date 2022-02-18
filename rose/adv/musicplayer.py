@@ -27,7 +27,7 @@ supun = """
 
 ✘ **Authorised Users List**
 
-Rose has a additional feature for non-admin users who want to use admin commands.
+Hijab Queen has a additional feature for non-admin users who want to use admin commands.
 Auth users can skip, pause, stop, resume Voice Chats even without Admin Rights.
 
 
@@ -35,7 +35,7 @@ Auth users can skip, pause, stop, resume Voice Chats even without Admin Rights.
 - /unauth `[Username or Reply to a Message]` : Remove a user from AUTH LIST of the group.
 - /authusers :  Check AUTH LIST of the group.
 
-[Old Manual Here ](https://t.me/szvcbot)
+[Old Manual Here ](https://t.me/mahsoombotupdate)
 """
 
 @app.on_callback_query(filters.regex("_adc"))
@@ -85,7 +85,7 @@ async def commands_callbacc(_, CallbackQuery):
 
 supunmas = """
 **Note:**
-Rose Music Bot works on a single merged 
+Hijab Queen Music Bot works on a single merged 
 commands for Music and Video
 
 **Youtube,Telegram Files & query**:
@@ -97,7 +97,7 @@ commands for Music and Video
 
 📖 **If you like you can use /vplay commands as this method.**
 
-**Rose Database Saved Playlists:**
+**Hijab Queen Database Saved Playlists:**
 
 - /playlist : Check Your Saved Playlist On Servers.
 - /deleteplaylist : Delete any saved music in your playlist
@@ -115,22 +115,15 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()    
 
 supunmasc = """
-We was added **Multi Assistant Mode** for High Number of Chats.
+We was added **Single Assistant** for Play Song In Chats.
 
-👮‍♀️ **OFFICIAL Assistants**:-
+👮‍♀️ **OFFICIAL Assistant**:-
 
-• Assistant 1️⃣ :- @vcpalyassistant
-• Assistant 2️⃣ :- @vcpalyassistant1
-• Assistant 3️⃣ :- @vcpalyassistant2
-• Assistant 4️⃣ :- @vcpalyassistant3
+• Assistant :- @hijabqueen_assistant
 
 **Credits** - 
+@Call_me_futurepilot
 
--「🇮🇳」°『||ᴀᴅ•✘•ᴍᴜꜱɪᴄ||』
-- @not_just_Nikhil
-
-👨‍💻 - Please Don't add all assistant to your group use 1
-And also we remove assistant monthly in all groups.
 """
 @app.on_callback_query(filters.regex("_aci"))
 async def commands_callbacc(_, CallbackQuery):
@@ -182,8 +175,6 @@ asuttons = InlineKeyboardMarkup(
 upun = """
 **A Telegram Music+Video Streaming bot with some useful features.**
 
-**Features**[?](https://notreallyshikhar.gitbook.io/Rosemusicbot/about/getting-started/features)
-
 - Zero lagtime Video + Audio player.
 - Working Queue and Interactive Queue Checker.
 - Youtube Downloader Bar.
@@ -192,9 +183,9 @@ upun = """
 - Multi Assistant Mode for High Number of Chats.
 - Interactive UI, Fonts and Thumbnails.
 
-**Original work is done by** : @OfficialYukki
+**Original work is done by** : @Call_me_futurepilot
 
-Click on the buttons for more information.| [credits](https://github.com/NotReallyShikhar/RoseMusicBot)
+Click on the buttons for more information.| [Channel](https://t.me/mahsoombotupdate)
 """
 @app.on_callback_query(filters.regex("_vc"))
 async def commands_callbacc(_, CallbackQuery):
