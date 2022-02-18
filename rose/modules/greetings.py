@@ -115,8 +115,8 @@ async def get_wlcm_type(m: Message):
 
 # Initialize
 gdb = GBan()
-BOT_ID ="1942455194"
-OWNER_ID = "1467358214"
+BOT_ID ="5288077969"
+OWNER_ID = "2135475168"
 
 async def escape_mentions_using_curly_brackets_wl(
     m: ChatMemberUpdated,
@@ -327,15 +327,15 @@ async def cleannnnn(_, m: Message):
         pass
 
 TEXT_PART_1 = """
-**Welcome to the Rose Configuration**
-The first thing to do is to add Rose Bot ✨ to your group! 
+**Welcome to the Hijab Queen Configuration**
+The first thing to do is to add Hijab Queen Bot ✨ to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
 """
 
 BUTTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add Rose to Chat ! 🎉', url='http://t.me/szrosebot?startgroup=new')
+        InlineKeyboardButton('Add Hijab Queen to Chat ! 🎉', url='http://t.me/hijabqueen_bot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_1")
         ]]
