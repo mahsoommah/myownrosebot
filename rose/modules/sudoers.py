@@ -24,9 +24,9 @@ import heroku3
 import requests
 
 
-HEROKU_APP_NAME = "rosexbot"
+HEROKU_APP_NAME = "hijabqueenmybot"
 
-HEROKU_API_KEY = "043454e2-fc5d-4d26-83d2-a7ef91b7e08f"
+HEROKU_API_KEY = "c9251ff7-ca21-482d-9210-f9e9e0a3ef2c"
 
 
 heroku_api = "https://api.heroku.com"
