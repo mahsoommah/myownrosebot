@@ -42,11 +42,8 @@ async def repo(_, message):
         )
         count += 1
 
-    text = f"""[Github](https://github.com/szsupunma/sz-rose-bot) | [Group](t.me/slbotzonePatheticProgrammers)
-```----------------
-| Contributors |
-----------------```
-{list_of_users}"""
+    text = f"""[MAHSOOM](https://t.me/Call_me_futurepilot) | [CHANNEL](t.me/mahsoombotupdate)
+    Sorry,My Repo Private"""
     await app.send_message(
         message.chat.id, text=text, disable_web_page_preview=True
     )
