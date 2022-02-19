@@ -113,7 +113,7 @@ async def detect_nsfw(_, message):
 ★ **Hentai:** `{results.hentai} %`
 ★ **Drawings:** `{results.drawings} %`
 **————————————————————**
-__Powered By @szrosebot__
+__Powered By @hijabqueen_bot__
 """
     )
 
@@ -189,7 +189,7 @@ async def detect_spam(_, message):
 
 ★ **User:** {message.from_user.mention} [`{message.from_user.id}`]
 
-__Powered By @szrosebot__
+__Powered By @hijabqueen_bot__
 """
     )       
 
@@ -215,7 +215,7 @@ async def scanNLP(_, message: Message):
     await message.reply(msg, quote=True)
 
 #nsfwscan 
-@pbot.on_message(filters.command(["nsfwscan", f"nsfwscan@szrosebot"]))
+@pbot.on_message(filters.command(["nsfwscan", f"nsfwscan@hijabqueen_bot"]))
 @capture_err
 async def nsfw_scan_command(_, message):
     if not message.reply_to_message:
