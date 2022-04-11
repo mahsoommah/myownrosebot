@@ -33,7 +33,7 @@ async def get_rules(_, m: Message):
                 [
                     (
                         "Rules Here",
-                        f"https://t.me/hijabqueen_bot?start=rules_{m.chat.id}",
+                        f"https://t.me/ghost_rosebot?start=rules_{m.chat.id}",
                         "url",
                     ),
                 ],
