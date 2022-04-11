@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 
 
 tilte = """
-Is users send porn on your group. Don't worry Hijab Queen can delete it all
+Is users send porn on your group. Don't worry Ghost can delete it all
 When enabled Rose will delete photos, stickers, gifs, videos contain porn
 
 × /antinsfw `[on/off]` : Pron-detect function
