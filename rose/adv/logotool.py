@@ -15,7 +15,7 @@ logo = """
 **Available Features**
 - 5000+ Fonts Available .
 - 10000+ Background Images.
-- Never Expire Image Links. [Telegraph](https://telegra.ph/file/8b7b44d8c000c89a16f8f.jpg)
+- Never Expire Image Links. [Telegraph](https://telegra.ph//file/31c82d2b0e71e36478b9e.jpg)
 - Group / Channel & Inbox Supported.
 
 Original work is done by [@Call_me_futurepilot](https://telegra.ph/file/529c5b49f4e40baeca030.jpg) | [Our Channel </>](https://t.me/mahsoombotupdate)
@@ -26,7 +26,7 @@ ghost = """
 × /slogo `[TEXT]` : New Beautiful trending logo
 
 **Available Features**
-- Ghostist Logo [API](https://telegra.ph/file/8b7b44d8c000c89a16f8f.jpg)
+- Ghostist Logo [API](https://telegra.ph//file/31c82d2b0e71e36478b9e.jpg)
 
 Original work is done by [@Call_me_futurepilot](https://telegra.ph/file/529c5b49f4e40baeca030.jpg) | [Our Channel </>](https://t.me/mahsoombotupdate)
 """
@@ -108,7 +108,7 @@ async def mylogo(_, query):
      "text":f"""
 Hello ! {text} Hijab Queen is one of the fastest and most feature filled group manager.
 
-Why Hijab Queen:
+Why Ghost:
 - Simple: Easy usage and compaitble with many bot commands.
 - Featured: Many features which other group management bots don't have.
 - Fast: Pyrogram base bot and use mongo as database.
