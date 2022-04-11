@@ -9,7 +9,7 @@ By the way these commands can be used by
 anyone in a group via inline.
 
 **Syntax**
-@hijabqueen_bot [command] [query]
+@ghost_rosebot [command] [query]
 """
 
 
