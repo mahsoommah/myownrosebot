@@ -1,4 +1,4 @@
-<p align="center"><img src="https://telegra.ph/file/978d831cb56f6e4befca8.jpg" alt="ICON" width="250" height="200"/></p>
+<p align="center"><img src="https://telegra.ph//file/31c82d2b0e71e36478b9e.jpg" alt="ICON" width="250" height="200"/></p>
 
 [![Stars](https://img.shields.io/github/stars/szsupunma/sz-rosebot?style=flat-square&color=yellow)](https://github.com/szsupunma/sz-rosebot/stargazers)
 [![Forks](https://img.shields.io/github/forks/szsupunma/sz-rosebot?style=flat-square&color=orange)](https://github.com/szsupunma/sz-rosebot/fork)
