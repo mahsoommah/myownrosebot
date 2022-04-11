@@ -152,7 +152,7 @@ async def google(_, message):
     app_details += (
             "\n<code>Features:</code> <a href='" + app_link + "'>View in Play Store</a>"
         )
-    app_details += "\n\n🔰 @hijabqueen_bot 🔰"
+    app_details += "\n\n🔰 @ghost_rosebot 🔰"
     await message.reply_photo(
                         photo = app_link,
                         caption = app_details, 
