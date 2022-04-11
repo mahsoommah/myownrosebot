@@ -157,7 +157,7 @@ start_button = InlineKeyboardMarkup(
 )
 
 start_text = f"""
-Hello There ! I'm **Hijab Queen** ✨ 
+Hello There ! I'm **Ghost** ✨ 
 An  advanced telegram Group management Bot For help 
 You Protect Your Groups & Suit For All Your Needs.
 """
@@ -176,7 +176,7 @@ keyboard = InlineKeyboardMarkup(
 
 basichelp_string = """
 **👥Basic Group Commands**
-✘ Base commands are the basic tools of Hijab Queen Bot which help you to manage 
+✘ Base commands are the basic tools of Ghost Bot which help you to manage 
 your group easily and effectivelyYou can choose 
 an option below, by clicking a button.
 Also you can ask anything in [Channel](https://t.me/mahsoombotupdate).
@@ -234,7 +234,7 @@ started time - `2022 {dater}:{timer} `
                 """
             )
         return await message.reply(
-            "**Heya, @hijabqueen_bot here :) PM me if you have any questions how to use me!**", reply_markup=keyboard
+            "**Heya, @ghost_rosebot here :) PM me if you have any questions how to use me!**", reply_markup=keyboard
         )
     if len(message.text.split()) > 1:
         name = (message.text.split(None, 1)[1]).lower()
@@ -664,7 +664,7 @@ UTTON_10 = InlineKeyboardMarkup(
 
 TEXT_PART_1 = """
 Here is the help for the **Formatting** 
-Hijab Queen supports a large number of formatting options 
+Ghost supports a large number of formatting options 
 to make your messages more expressive. Take a look 
 by clicking the buttons below!
 """
@@ -823,7 +823,7 @@ async def commands_callbacc(_, CallbackQuery):
  - **Latest Update Time** : `2022 {dater}:{timer}`
  - **Modules Loaded **:  `{modules_count}`
  - **Globally banned users.** :  `{gbans}`
-@hijabqueen_bot **Mongo database stats**
+@ghost_rosebot **Mongo database stats**
  - ** Users ** : `{served_users}`
  - ** chats.** : `{served_chats}`
 
@@ -843,8 +843,8 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()
 
 TEXT_PART_1 = """
-**Welcome to the Hijab Queen Configuration**
-The first thing to do is to add Hijab Queen ✨ to your group! 
+**Welcome to the Ghost Configuration**
+The first thing to do is to add Ghost ✨ to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
 """
@@ -857,7 +857,7 @@ To do that, follow this easy steps:
 ▫️ Click Manage Group
 ▫️ Goto Administrators 
 ▫️ Press on Administrator
-▫️ Add @hijabqueen_bot as Admin
+▫️ Add @ghost_rosebot as Admin
 ▫️ Give full permissions 
 ▫️ Confirm
 """
@@ -873,7 +873,7 @@ We would love to help you.
 
 BUTTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add Hijab Queen to Chat ! 🎉', url='http://t.me/hijabqueen_bot?startgroup=new')
+        InlineKeyboardButton('Add Ghost to Chat ! 🎉', url='http://t.me/ghost_rosebot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_1")
         ]]
@@ -914,18 +914,18 @@ async def popat(_, CallbackQuery):
 
 
 text = """
-@hijabqueen_bot is one of the fastest and most feature filled group manager.
+@ghost_rosebot is one of the fastest and most feature filled group manager.
 
-🦋Hijab Queen🦋 is developed and actively maintained by @Call_me_futurepilot!
+🦋Ghost🦋 is developed and actively maintained by @Call_me_futurepilot!
 
 Hijab Queen has been online since 2022/02/19 and have many [groups and users.](https://t.me/mahsoombotupdate)
 
-**Why Hijab Queen:**
+**Why Ghost:**
 - **Simple**: Easy usage and compaitble with many bot commands.
 - **Featured**: Many features which other group management bots don't have.
 - **Fast**: Pyrogram base bot and use mongo as database.
 
-**Current Version:** `1.0.6` | [Our Fed](https://t.me/pandafedlogss)
+**Current Version:** `1.0.6` | [Mahsoom](https://t.me/call_me_futurepilot)
 """
 @app.on_callback_query(filters.regex("_about"))
 async def commands_callbacc(_, CallbackQuery):
@@ -960,8 +960,8 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()
 
 TEXT_PAT_1 = """
-**Welcome to the Hijab Queen Configuration**
-The first thing to do is to add Hijab Queen Bot ✨ to your group! 
+**Welcome to the Ghost Configuration**
+The first thing to do is to add Ghost Bot ✨ to your group! 
 For doing that, press the under button and select your group,
 then press Done to continue the tutorial..
 """
@@ -974,7 +974,7 @@ To do that, follow this easy steps:
 ▫️ Click Manage Group
 ▫️ Goto Administrators 
 ▫️ Press on Administrator
-▫️ Add @hijabqueen_bot as Admin
+▫️ Add @ghost_rosebot as Admin
 ▫️ Give full permissions 
 ▫️ Confirm
 """
@@ -990,7 +990,7 @@ We would love to help you.
 
 BUTON_1 = InlineKeyboardMarkup(
         [[        
-        InlineKeyboardButton('Add Hijab Queen to Chat ! 🎉', url='http://t.me/hijabqueen_bot?startgroup=new')
+        InlineKeyboardButton('Add Ghost to Chat ! 🎉', url='http://t.me/ghost_rosebot?startgroup=new')
         ],
         [InlineKeyboardButton('Done ✅', callback_data="next_100")
         ]]
