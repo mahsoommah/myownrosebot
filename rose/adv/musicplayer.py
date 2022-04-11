@@ -85,7 +85,7 @@ async def commands_callbacc(_, CallbackQuery):
 
 supunmas = """
 **Note:**
-Hijab Queen Music Bot works on a single merged 
+Ghost Music Bot works on a single merged 
 commands for Music and Video
 
 **Youtube,Telegram Files & query**:
@@ -97,7 +97,7 @@ commands for Music and Video
 
 📖 **If you like you can use /vplay commands as this method.**
 
-**Hijab Queen Database Saved Playlists:**
+**Ghost Database Saved Playlists:**
 
 - /playlist : Check Your Saved Playlist On Servers.
 - /deleteplaylist : Delete any saved music in your playlist
@@ -119,7 +119,7 @@ We was added **Single Assistant** for Play Song In Chats.
 
 👮‍♀️ **OFFICIAL Assistant**:-
 
-• Assistant :- @hijabqueen_assistant
+• Assistant :- @ghost_rosebot
 
 **Credits** - 
 @Call_me_futurepilot
