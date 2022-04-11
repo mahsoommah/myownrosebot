@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 supunma = """
 **💖Basic Menu💖**
 
-✘ Base commands are the basic tools of Hijab Queen Bot which help you to manage 
+✘ Base commands are the basic tools of Ghost Bot which help you to manage 
 your group easily and effectivelyYou can choose an option below, 
 by clicking a button.Also you can ask anything in [Support Group](https://t.me/mahsoombotlog).
 
