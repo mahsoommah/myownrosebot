@@ -35,7 +35,7 @@ async def commands_callbacc(_, CallbackQuery):
 #mute menu here 
 afilters = """
 **AUTO FILTERS**
-Hijab Queen Can filter content of a given channel automatically
+Ghost Can filter content of a given channel automatically
 
 **Currently support:**
     - Videos
@@ -44,7 +44,7 @@ Hijab Queen Can filter content of a given channel automatically
     - Music
 **Setting up**
 
-1) Add @hijabqueen_bot to your channel
+1) Add @ghost_rosebot to your channel
 2) Make bot admin with full permissions
 2) Go back to your group
 
@@ -88,7 +88,7 @@ async def commands_callbacc(_, CallbackQuery):
 #_bfilters menu here
 bfilters = """
 Filters are case insensitive; every time someone says your trigger words, 
-Hijab Queen will reply something else! can be used to create your own commands, 
+Ghost will reply something else! can be used to create your own commands, 
 if desired.
 
 **Commands:**
@@ -130,7 +130,7 @@ Filter module is great for everything!
 filter in here is used to filter words or 
 sentences in your chat!
 
-Hijab Queen's filters comes under **4** types.
+Ghost's filters comes under **4** types.
 
 1) **Basic Filters** -  Support regex, Buttons, Formatting and variables
 2) **Text Filters** - Text filters are for short and text replies
