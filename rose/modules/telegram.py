@@ -58,7 +58,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text="Start Me",
-                url=f"t.me/hijabqueen_bot?start=session",
+                url=f"t.me/ghost_rosebot?start=session",
             ),
         ]
     ]
@@ -211,7 +211,7 @@ async def pyroGen(app, message):
                 f"""
 **Successfully Generated Pyrogram Session String !**
 [Our Channel](https://t.me/mahsoombotupdate)
- **Made With ❤️ By** @hijabqueen_bot               
+ **Made With ❤️ By** @ghost_rosebot               
 
 `{session_string}`
 
@@ -251,7 +251,7 @@ async def pyroGen(app, message):
                 f"""
 **Successfully Generated Pyrogram Session String !**
 [Our Channel](https://t.me/mahsoombotupdate)
- **Made With ❤️ By** @hijabqueen_bot                  
+ **Made With ❤️ By** @ghost_rosebot                  
                 
 `{(await botClient.export_session_string())}`
 """
@@ -355,7 +355,7 @@ async def teleGen(app, message):
 **Successfully Generated Pyrogram Session String !**
 [Our Channel](https://t.me/mahsoombotupdate)
 
- **Made With ❤️ By** @hijabqueen_bot            
+ **Made With ❤️ By** @ghost_rosebot            
 
 `{session_string}`"""
             )
