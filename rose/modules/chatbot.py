@@ -98,7 +98,7 @@ async def hmm(client, message):
         test = msg
         test = test.replace("app", "Aco")
         test = test.replace("app", "Aco")
-        URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@szroseBot&ownername=@supunma"
+        URL = f"https://api.affiliateplus.xyz/api/chatbot?message={text}&botname=Rose%20Bot&ownername=Supun%20Maduranga%20Contact%20him%20@supunma&user=1"
 
         try:
             r = requests.request("GET", url=URL)
@@ -161,7 +161,7 @@ async def hmm(client, message):
 
         test = test.replace("app", "Aco")
         test = test.replace("app", "Aco")
-        URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@szroseBot&ownername=@supunma"
+        URL = f"https://api.affiliateplus.xyz/api/chatbot?message={text}&botname=Rose%20Bot&ownername=Supun%20Maduranga%20Contact%20him%20@supunma&user=1"
         try:
             r = requests.request("GET", url=URL)
         except:
